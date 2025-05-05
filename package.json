@@ -1,8 +1,8 @@
 {
-  "name": "krashlotz",
+  "name": "nivi1223",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nivi1223.github.io/pikilutz/",
+  "homepage": "http://nivi1223.github.io/pikilutz",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
