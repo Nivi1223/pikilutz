@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pikilutz/static/css/main.424ead83.css",
+    "main.css": "/pikilutz/static/css/main.9562ed69.css",
     "main.js": "/pikilutz/static/js/main.af1bf4a8.js",
     "static/media/dan.jpg": "/pikilutz/static/media/dan.11319c780aaac9d66168.jpg",
     "static/media/ventura.jpg": "/pikilutz/static/media/ventura.bf660030dfc004259d74.jpg",
@@ -18,8 +18,8 @@
     "static/media/asda.jpg": "/pikilutz/static/media/asda.316ae3c8be00b9cfe8db.jpg",
     "static/media/bar.JPG": "/pikilutz/static/media/bar.dad89b12624354c2bc2d.JPG",
     "static/media/eran.JPG": "/pikilutz/static/media/eran.d9a31e621fe22bf9650b.JPG",
+    "static/media/niv_final_front_1.png": "/pikilutz/static/media/niv_final_front_1.63a853a236449233d174.png",
     "static/media/nevo.JPG": "/pikilutz/static/media/nevo.f26f4ff8dbe99e2ca99c.JPG",
-    "static/media/front_card_niv.png": "/pikilutz/static/media/front_card_niv.5235116f97d17488476a.png",
     "static/media/noy.JPG": "/pikilutz/static/media/noy.b0a32b30fcb5669f1533.JPG",
     "static/media/noz.jpg": "/pikilutz/static/media/noz.1cf6dd28afbe4881d38f.jpg",
     "static/media/roni.JPG": "/pikilutz/static/media/roni.0686f172c714592bea3d.JPG",
@@ -39,11 +39,11 @@
     "static/media/avigul-bold-fm.otf": "/pikilutz/static/media/avigul-bold-fm.b71b8c4f1f3cca6d7850.otf",
     "static/media/roee.jpg": "/pikilutz/static/media/roee.8b3bf2cd5b1965ed5a7c.jpg",
     "index.html": "/pikilutz/index.html",
-    "main.424ead83.css.map": "/pikilutz/static/css/main.424ead83.css.map",
+    "main.9562ed69.css.map": "/pikilutz/static/css/main.9562ed69.css.map",
     "main.af1bf4a8.js.map": "/pikilutz/static/js/main.af1bf4a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.424ead83.css",
+    "static/css/main.9562ed69.css",
     "static/js/main.af1bf4a8.js"
   ]
 }
