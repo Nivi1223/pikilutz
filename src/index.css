@@ -17,7 +17,7 @@
 body {
   height: 100vh;
   overflow: hidden;
-  background: radial-gradient(#ffbb00, #cd3000);
+  background: radial-gradient(#ffda73, #cd8c00);
   font-family: Helvetica, sans-serif;
   display: flex;
   justify-content: center;
@@ -56,7 +56,7 @@ body {
 .front {
   display: flex;
   justify-content: center;
-  background-image: url("./assets/front_code.jpg");
+  background-image: url("./assets/niv_final_front.png");
   background-size: contain;
 }
 
@@ -64,7 +64,7 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   transform: rotateY(180deg);
   display: flex;
-  background-image: url("./assets/back_code.jpg");
+  background-image: url("./assets/niv_final_back.png");
   background-size: contain;
   flex-direction: column;
   justify-content: center;
@@ -87,7 +87,11 @@ body {
 
 #letter {
   position: relative;
-  color: white;
+  color: rgb(243, 221, 173);
+  text-shadow: 1px 1px 0px black,
+    /* Shadow to the right and down */ -1px -1px 0px black,
+    /* Shadow to the left and up */ 1px -1px 0px black,
+    /* Shadow to the top-right */ -1px 1px 0px black; /* Shadow to the bottom-left */
   bottom: 27px;
 }
 
@@ -122,11 +126,12 @@ body {
 }
 
 #logo {
-  width: 283.7px;
-  height: 283.7px;
+  width: 185.7px;
+  height: 185.7px;
   border-radius: 50%;
   position: relative;
-  top: 18px;
+  top: 221px;
+  right: 5px;
   animation: glowing 2000ms infinite;
 }
 
@@ -145,12 +150,14 @@ body {
 
 #phone {
   position: absolute;
-  bottom: 62px;
-  right: 40px;
+  bottom: 25px;
+  left: 45px;
   color: #cd3000;
-  opacity: 40%;
-  letter-spacing: 3px;
-  transform: rotateZ(-4.5deg);
+  opacity: 60%;
+  transform: rotateZ(-15deg);
+  color: "white";
+  text-decoration: "none";
+  font-family: letter-content-font;
 }
 
 #photo {
@@ -179,30 +186,30 @@ body {
 
 @keyframes glowing {
   0% {
-    box-shadow: 0 0 -10px #fff200;
+    box-shadow: 0 0 -10px #f0ae21;
   }
   40% {
-    box-shadow: 0 0 25px #fff200;
+    box-shadow: 0 0 25px #f0ae21;
   }
   60% {
-    box-shadow: 0 0 25px #fff200;
+    box-shadow: 0 0 25px #f0ae21;
   }
   100% {
-    box-shadow: 0 0 -10px #fff200;
+    box-shadow: 0 0 -10px #f0ae21;
   }
 }
 
 @keyframes glowing2 {
   0% {
-    box-shadow: 0 0 -10px #ff0000;
+    box-shadow: 0 0 -10px #f0ae21;
   }
   40% {
-    box-shadow: 0 0 25px #ff0000;
+    box-shadow: 0 0 25px #f0ae21;
   }
   60% {
-    box-shadow: 0 0 25px #ff0000;
+    box-shadow: 0 0 25px #f0ae21;
   }
   100% {
-    box-shadow: 0 0 -10px #ff0000;
+    box-shadow: 0 0 -10px #f0ae21;
   }
 }
