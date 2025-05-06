@@ -22,8 +22,18 @@ const Front = ({
         />
       )}
       <div id="logo" className="pressable" onClick={logoPress}></div>
-      <a id="phone" style={{color: 'white', textDecoration: 'none', fontFamily: 'letter-content-font'}} href="tel:+972 543449982" onClick={phonePress}>
-ניבי - 0543449982      </a>
+      <a
+        id="phone"
+        style={{
+          color: "white",
+          textDecoration: "none",
+          fontFamily: "letter-content-font",
+        }}
+        href="tel:+972 543449982"
+        onClick={phonePress}
+      >
+        ניבי - 0543449982{" "}
+      </a>
     </div>
   );
 };
