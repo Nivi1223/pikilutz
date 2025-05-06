@@ -56,7 +56,7 @@ body {
 .front {
   display: flex;
   justify-content: center;
-  background-image: url("./assets/front_card_niv.png");
+  background-image: url("./assets/niv_final_front_1.png");
   background-size: contain;
 }
 
