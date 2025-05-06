@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pikilutz/static/css/main.fecfd872.css",
-    "main.js": "/pikilutz/static/js/main.d976b6cb.js",
+    "main.css": "/pikilutz/static/css/main.e56dbd3c.css",
+    "main.js": "/pikilutz/static/js/main.4e5c11c8.js",
     "static/media/dan.jpg": "/pikilutz/static/media/dan.11319c780aaac9d66168.jpg",
     "static/media/ventura.jpg": "/pikilutz/static/media/ventura.bf660030dfc004259d74.jpg",
     "static/media/yarden.jpg": "/pikilutz/static/media/yarden.602231c70f9c8a158e23.jpg",
@@ -20,6 +20,7 @@
     "static/media/eran.JPG": "/pikilutz/static/media/eran.d9a31e621fe22bf9650b.JPG",
     "static/media/nevo.JPG": "/pikilutz/static/media/nevo.f26f4ff8dbe99e2ca99c.JPG",
     "static/media/noy.JPG": "/pikilutz/static/media/noy.b0a32b30fcb5669f1533.JPG",
+    "static/media/front_card_niv.png": "/pikilutz/static/media/front_card_niv.7e866c774a8cb9bffe9a.png",
     "static/media/noz.jpg": "/pikilutz/static/media/noz.1cf6dd28afbe4881d38f.jpg",
     "static/media/roni.JPG": "/pikilutz/static/media/roni.0686f172c714592bea3d.JPG",
     "static/media/yogev.JPG": "/pikilutz/static/media/yogev.7111e1cc95ccd9a5401a.JPG",
@@ -30,7 +31,6 @@
     "static/media/guy.JPG": "/pikilutz/static/media/guy.c478f3a999773431efab.JPG",
     "static/media/shelly.jpg": "/pikilutz/static/media/shelly.b1fb5433fe698753e0be.jpg",
     "static/media/tzadkani.jpg": "/pikilutz/static/media/tzadkani.d2bfceef1065f1e1bf4b.jpg",
-    "static/media/niv_final_front.png": "/pikilutz/static/media/niv_final_front.e10111a61cf9f89fa37a.png",
     "static/media/alonga.JPG": "/pikilutz/static/media/alonga.27a29484bb93ab1ce4d1.JPG",
     "static/media/noa.jpg": "/pikilutz/static/media/noa.b81d74a25c8f895a6c72.jpg",
     "static/media/amosi.JPG": "/pikilutz/static/media/amosi.a871b9343822699f090d.JPG",
@@ -39,11 +39,11 @@
     "static/media/avigul-bold-fm.otf": "/pikilutz/static/media/avigul-bold-fm.b71b8c4f1f3cca6d7850.otf",
     "static/media/roee.jpg": "/pikilutz/static/media/roee.8b3bf2cd5b1965ed5a7c.jpg",
     "index.html": "/pikilutz/index.html",
-    "main.fecfd872.css.map": "/pikilutz/static/css/main.fecfd872.css.map",
-    "main.d976b6cb.js.map": "/pikilutz/static/js/main.d976b6cb.js.map"
+    "main.e56dbd3c.css.map": "/pikilutz/static/css/main.e56dbd3c.css.map",
+    "main.4e5c11c8.js.map": "/pikilutz/static/js/main.4e5c11c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.fecfd872.css",
-    "static/js/main.d976b6cb.js"
+    "static/css/main.e56dbd3c.css",
+    "static/js/main.4e5c11c8.js"
   ]
 }
