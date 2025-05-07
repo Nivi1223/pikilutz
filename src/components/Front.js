@@ -29,7 +29,7 @@ const Front = ({
           textDecoration: "none",
           fontFamily: "letter-content-font",
         }}
-        href="tel:+972 543449982"
+        href="https://api.whatsapp.com/send/?phone=0543449982"
         onClick={phonePress}
       >
         ניבי - 0543449982{" "}
