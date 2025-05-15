@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pikilutz/static/css/main.cf845ba9.css",
-    "main.js": "/pikilutz/static/js/main.26bc4550.js",
+    "main.js": "/pikilutz/static/js/main.e2172e4f.js",
     "static/media/sandler.jpg": "/pikilutz/static/media/sandler.b66bf23576065152318b.jpg",
     "static/media/niv_final_front_1.png": "/pikilutz/static/media/niv_final_front_1.63a853a236449233d174.png",
     "static/media/baget.jpg": "/pikilutz/static/media/baget.87a45bdbf9926be392a4.jpg",
@@ -14,6 +14,7 @@
     "static/media/keli-and-gabin.jpg": "/pikilutz/static/media/keli-and-gabin.0ed80ccb1d711e29fa32.jpg",
     "static/media/yodan.jpg": "/pikilutz/static/media/yodan.b2d7ac8d6ec22d7a5569.jpg",
     "static/media/romeo.jpg": "/pikilutz/static/media/romeo.40b5f88d12c488c45b10.jpg",
+    "static/media/mishel.jpg": "/pikilutz/static/media/mishel.6d929351c1008139e0cb.jpg",
     "static/media/tzabari.jpg": "/pikilutz/static/media/tzabari.2331e532048b39714f48.jpg",
     "static/media/eden.jpg": "/pikilutz/static/media/eden.56deebae336e5cb46731.jpg",
     "static/media/mylife.jpg": "/pikilutz/static/media/mylife.ea3f9e64dce80253fc86.jpg",
@@ -29,10 +30,10 @@
     "static/media/avigul-bold-fm.otf": "/pikilutz/static/media/avigul-bold-fm.b71b8c4f1f3cca6d7850.otf",
     "index.html": "/pikilutz/index.html",
     "main.cf845ba9.css.map": "/pikilutz/static/css/main.cf845ba9.css.map",
-    "main.26bc4550.js.map": "/pikilutz/static/js/main.26bc4550.js.map"
+    "main.e2172e4f.js.map": "/pikilutz/static/js/main.e2172e4f.js.map"
   },
   "entrypoints": [
     "static/css/main.cf845ba9.css",
-    "static/js/main.26bc4550.js"
+    "static/js/main.e2172e4f.js"
   ]
 }
